@@ -6381,7 +6381,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background: url(../img/backgound.jpg) no-repeat center center fixed;
+  background: url(../img/backgound.jpg);
  
 }
 .bg-primary2 {
